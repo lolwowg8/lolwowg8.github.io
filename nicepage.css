@@ -34154,7 +34154,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-1 {
     margin-left: 0;
-    width: auto;
   }
 
   .u-header .u-menu-1 {
@@ -34273,6 +34272,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 
+ /*begin-variables custom-site-css*/img[alt="www.000webhost.com"]{display:none;}/*end-variables custom-site-css*/
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
  /*end-variables base-font-size*/

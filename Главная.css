@@ -67,6 +67,13 @@
 
 .u-section-4-3 .u-sheet-1 {
   min-height: 800px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4-3 {
+    background-position: 56.56% 50%;
+    background-size: auto 130%;
+  }
 }.u-section-4-4 {
   background-image: url("images/maxresdefault.jpg");
   background-position: 50% 50%;
@@ -102,6 +109,10 @@
 
 .u-section-1 .u-carousel-item-1 {
   margin-right: 0;
+}
+
+.u-section-1 .u-back-image-1 {
+  object-position: 0% 33.79%;
 }
 
 .u-section-1 .u-over-slide-1 {
@@ -174,7 +185,6 @@
   width: 800px;
   min-height: 485px;
   animation-duration: 1000ms;
-  height: auto;
   margin: 60px auto;
 }
 
@@ -218,10 +228,6 @@
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 577px;
-  }
-
-  .u-section-2 .u-group-1 {
-    height: auto;
   }
 
   .u-section-2 .u-shape-1 {

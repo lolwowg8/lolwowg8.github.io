@@ -6,7 +6,6 @@
 .u-section-1 .u-group-1 {
   width: 525px;
   min-height: 470px;
-  height: auto;
   animation-duration: 1000ms;
   margin: 61px auto 0 calc(((100% - 1140px) / 2) + 28px);
 }
@@ -56,7 +55,6 @@
 
   .u-section-1 .u-group-1 {
     margin-left: calc(((100% - 940px) / 2) + 28px);
-    height: auto;
   }
 
   .u-section-1 .u-image-1 {
